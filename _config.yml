@@ -1,7 +1,8 @@
 # Site settings
 name: Abbas Ghahraman
-description: "This is the temporarity home page of me. I am going to share my experiences by creating small projects of spring technologies alongside covering all aspects of each technology"
+description: "This website will be about how to use spring technologies, as well as cover all aspects of each technology as well"
 url: "usespring.github.io"
+title: "how to use spring technologies"
 
 
 # Delete the lines you don't need
